@@ -1,0 +1,13 @@
+EMP_ID,name,age,gender,degination,sallary,city,country,bonus
+EMP001,vikash,22,male,owner,8000,mp,india,0.5
+EMP002,sapna,21,female,manager,60000,bihar,usa,0
+EMP003,ram,34,male,cahier,70000,delhi,india,5
+EMP004,krishna,32,male,accounter,56000,delhi,china,0.67
+EMP005,seeta,43,female,engineer,40000,pune,newyork,0
+EMP006,radha,45,female,programmer,50000,rachi,korea,0.45
+EMP007,mohan,26,male,tester,66000,rachi,switzerland,0.3
+EMP008,shyam,29,male,programmer,45000,delhi,india,0.8
+EMP009,hanuman,31,male,tester,85000,goa,india,0
+EMP0010,meena,29,female,cahier,80000,delhi,usa,0.7
+EMP002,sapna,21,female,manager,60000,bihar,irak,0.9
+EMP004,krishna,32,male,teacher,45000,delhi,korea,0.4

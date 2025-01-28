@@ -1,0 +1,13 @@
+EMP_ID,name,age,gender,sallary,city
+EMP001,vikash,22,male,8000,mp
+EMP002,sapna,21,female,60000,bihar
+EMP003,ram,34,male,70000,-
+EMP004,krishna,32,male,NAN,delhi
+EMP005,seeta,43,female,40000,pune
+EMP006,radha,NAN,female,50000,rachi
+EMP007,mohan,26,male,66000,patna
+EMP008,shyam,29,male,45000,delhi
+EMP009,hanuman,31,male,85000,goa
+EMP0010,meena,29,female,80000,delhi
+EMP002,sapna,21,female,60000,bihar
+EMP004,krishna,32,male,NAN,delhi
